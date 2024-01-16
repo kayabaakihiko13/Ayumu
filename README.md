@@ -1,5 +1,5 @@
 # Ayumu
-![image](Doc\image\XGNQlmUw.png)
+![image](Doc/image/XGNQlmUw.png)
 
 **Image Segmentation Anime Picture**
 
