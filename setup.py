@@ -2,7 +2,7 @@ from setuptools import setup
 
 with open("requirements.txt") as file:
     requitments = file.read().splitlines()
-    
+
 setup(
     name="Ayumu",
     version="0.0.1",
@@ -17,5 +17,5 @@ setup(
         "Programming Language :: Python :: 3.11",
         "Programming Language :: Python :: 3.12",
         "Operating System :: OS Independent",
-    ]
+    ],
 )
